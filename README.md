@@ -14,7 +14,7 @@ Worked on two different datasets:​
 1) 21 Mycobacterial genomes (Tuberculosis and non-Tuberculosis strains)​
 2) Myeloid cell leukaemia protein (AAG00896) original and mutated sequences.
 
-Data set can be downloaded from here - https://drive.google.com/file/d/1NcKbxCFIS3M5HknARie80XviRBbIxe_P/view?usp=drive_link
+Data set can be downloaded from here - https://drive.google.com/file/d/1NcKbxCFIS3M5HknARie80XviRBbIxe_P/view?usp=sharing
 
 Methods used for construction of phylogenetic tree - Distance matrix method
 
